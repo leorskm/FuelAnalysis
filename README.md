@@ -4,7 +4,7 @@
 The objective of this project was to develop a supervised machine learning model capable of predicting the combined fuel efficiency (measured in miles per gallon, MPG) of vehicles. Predicting MPG is essential for assessing vehicle performance and environmental impact, a statistic relevant to stakeholders such as car manufacturers, regulators and consumers interested in fuel efficiency.
 
 ### Data Description
-The dataset used in this project, derived from the `fuel.csv` file, consists of 38,113 entries and includes various attributes related to vehicle specifications. Each entry corresponds to a specific vehicle model and includes data such as:
+The dataset used in this project, derived from the `Dataset_Fuel types.csv` file, consists of 38,113 entries and includes various attributes related to vehicle specifications. Each entry corresponds to a specific vehicle model and includes data such as:
 - **Vehicle Identification Details**: Model year, make, and model.
 - **Engine Specifications**: Type of engine, number of cylinders, engine displacement, and whether the engine is turbocharged.
 - **Fuel Efficiency Metrics**: City MPG, highway MPG, and combined MPG under different testing scenarios.
